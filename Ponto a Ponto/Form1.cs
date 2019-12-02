@@ -31,6 +31,7 @@ namespace Ponto_a_Ponto
             P1.Y = Convert.ToDouble(y1.Text);
             P2.X = Convert.ToDouble(x2.Text);
             P2.Y = Convert.ToDouble(y2.Text);
+            label4.Text = P1.Distancia(P2).ToString();
         }
     }
 }

@@ -53,7 +53,7 @@
             // x1
             // 
             this.x1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x1.Location = new System.Drawing.Point(121, 138);
+            this.x1.Location = new System.Drawing.Point(130, 138);
             this.x1.Name = "x1";
             this.x1.Size = new System.Drawing.Size(116, 38);
             this.x1.TabIndex = 1;
@@ -61,7 +61,7 @@
             // y1
             // 
             this.y1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.y1.Location = new System.Drawing.Point(244, 138);
+            this.y1.Location = new System.Drawing.Point(253, 138);
             this.y1.Name = "y1";
             this.y1.Size = new System.Drawing.Size(116, 38);
             this.y1.TabIndex = 2;
@@ -69,7 +69,7 @@
             // x2
             // 
             this.x2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x2.Location = new System.Drawing.Point(121, 182);
+            this.x2.Location = new System.Drawing.Point(130, 182);
             this.x2.Name = "x2";
             this.x2.Size = new System.Drawing.Size(116, 38);
             this.x2.TabIndex = 3;
@@ -77,7 +77,7 @@
             // y2
             // 
             this.y2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.y2.Location = new System.Drawing.Point(244, 182);
+            this.y2.Location = new System.Drawing.Point(253, 182);
             this.y2.Name = "y2";
             this.y2.Size = new System.Drawing.Size(116, 38);
             this.y2.TabIndex = 4;
